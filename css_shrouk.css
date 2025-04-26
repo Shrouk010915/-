@@ -1,0 +1,50 @@
+
+#Home{
+        background-color: aquamarine;
+        text-align: center;
+    }
+    .sub {
+    d
+        display: inline-block;
+        width:33%;
+        
+    }
+h1{
+ color: rgb(250, 224, 215);
+ text-align: center;
+}
+    
+
+p{
+    font-size: large;
+}
+#header{
+    font-size: 20px;
+    background-color: #f00;
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+    border: rgb(255, 72, 0);
+    border-style: dashed;
+    
+}
+.geography{
+    text-align: center;
+    color: blueviolet;
+}
+h1,p,div{
+    font-size: medium;
+}
+th,td{
+    border:solid black;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: antiquewhite;
+}
+td{
+    background-color: #f00;
+}
